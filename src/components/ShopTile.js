@@ -13,5 +13,6 @@ function ShopTile({ potion, addToInventory, children }) {
     </div>
   );
 }
+console.log(ShopTile);
 
 export default ShopTile;

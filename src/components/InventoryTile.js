@@ -13,5 +13,5 @@ function InventoryTile({ potion, sell, children }) {
     </div>
   );
 }
-
+console.log(InventoryTile);
 export default InventoryTile;
